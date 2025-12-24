@@ -41,7 +41,7 @@ Go to Jail or Pay Tax
 The game ends when a player runs out of money.
 
 📸 Screenshot
-![Monopoly Game Screenshot](../screenshots/gamecapture.PNG)
+![Monopoly Game Screenshot](screenshots/gamecapture.PNG)
 
 🧠 What I Learned
 Managing game state (players, money, positions, properties)
